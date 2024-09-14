@@ -15,14 +15,12 @@
     <p>Learn Web <em>Development</em></p>
     <p>Learn Web Development</p>
     <p><blockquote cite="https://en.wikipedia.org/wiki/HTML">Hypertext Markup Language (HTML) is the standard markup language for documents designed to be displayed in a web browser. It defines the content and structure of web content. It is often assisted by technologies such as Cascading Style Sheets (CSS) and scripting languages such as JavaScript</blockquote> </p>
-
-    <address>
+<address>
       From: Johen <br>
       House No:  112 <br>
       Kochi <br>
       Kerala <br>
-    </address>
-
+</address>
     <p>
       <cite>Harry Potter</cite>
       written by: Joanne Kathleen Rowling
